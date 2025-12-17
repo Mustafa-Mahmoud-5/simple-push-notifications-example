@@ -1,0 +1,4 @@
+/notifications/public/firebase-messaging-sw.js
+/fcm-backend/serviceAccountKey.json
+/notifications/public/firebase.js
+/node_modules
